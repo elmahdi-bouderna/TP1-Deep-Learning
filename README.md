@@ -160,7 +160,7 @@ Pour améliorer les résultats, plusieurs modifications ont été effectuées :
 TP1-DeepLearning/
 │
 ├── AmesHousing.csv
-├── TP 1.ipynb
+├── TP_1.ipynb
 ├── README.md
 ```
 
